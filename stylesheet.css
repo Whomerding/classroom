@@ -1,0 +1,28 @@
+/* html {
+    background-image: url('images/background.jpeg');
+} */
+h1 {
+    text-align: center;
+}
+ul {
+    text-align: left;
+}
+btn {
+    margin: .5EM;
+    color: #FA9884;
+}
+.card-body {
+    text-align: center;
+}
+.id-pic {
+    max-width: 2REM;
+}
+.card {
+    color: #FA9884;
+}
+.subtitle {
+    color: #FA9884;
+}
+.surveys {
+    text-align: center;
+}
